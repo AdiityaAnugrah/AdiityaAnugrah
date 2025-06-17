@@ -14,6 +14,18 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 
 ---
 
+## 📌 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+
+
 ## 🧠 Skills
 
 <div align="center">
@@ -21,30 +33,6 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AdiityaAnugrah&show_icons=true&theme=radical&hide_border=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiityaAnugrah&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdiityaAnugrah&theme=gruvbox&margin-w=10&no-frame=true" />
-</p>
-
----
-
-## 📊 Grafik Aktivitas GitHub
-
-![Grafik Aktivitas GitHub Aditya](https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&theme=github-compact)
-
----
-
 
 ## 🔧 Tools & Workflow
 
@@ -56,12 +44,13 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 
 ---
 
-<!-- ## 🎥 Featured Project
 
-[![My App](https://github.com/AdiityaAnugrah/AdiityaAnugrah/raw/main/demo.gif)](https://github.com/AdiityaAnugrah/)  
-> Aplikasi manajemen produk berbasis React + CodeIgniter 4, mendukung CRUD dan integrasi API.
 
---- -->
+## 📊 Grafik Aktivitas GitHub
+
+![Grafik Aktivitas GitHub Aditya](https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&theme=github-compact)
+
+---
 
 ## 🎧 Spotify Listening
 
@@ -72,6 +61,16 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 </div>
 
 ---
+
+
+<!-- ## 🎥 Featured Project
+
+[![My App](https://github.com/AdiityaAnugrah/AdiityaAnugrah/raw/main/demo.gif)](https://github.com/AdiityaAnugrah/)  
+> Aplikasi manajemen produk berbasis React + CodeIgniter 4, mendukung CRUD dan integrasi API.
+
+--- -->
+
+
 
 <!-- ## 📹 YouTube Video Terbaru
 
@@ -90,13 +89,22 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 <!-- > Aktifkan dengan [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) -->
 
 
-## 📌 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
-</picture>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AdiityaAnugrah&show_icons=true&theme=radical&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiityaAnugrah&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdiityaAnugrah&theme=gruvbox&margin-w=10&no-frame=true" />
+</p>
 
 ---
 
