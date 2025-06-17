@@ -4,13 +4,11 @@
 
 **`Developer/Creator`**
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/github-contribution-grid-snake.svg">
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/snake.svg" style="filter: drop-shadow(0 0 5px #333); border-radius: 10px;" />
+</picture>
 
 I am a developer from the Informatics Engineering study program at Dian Nuswantoro University with experience in research-based technology, particularly in Android and web development. I also possess skills in data processing using Microsoft Office tools. I am currently seeking new opportunities and experiences in a good work environment to continue my growth and learning journey, and to further enhance my skills. I am enthusiastic about contributing to the technology industry through innovation. I have the ability to work effectively within a team, manage time efficiently, communicate well, and excel in problem-solving.
 
