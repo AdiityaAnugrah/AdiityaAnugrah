@@ -13,29 +13,44 @@
 I am a developer from the Informatics Engineering program at Dian Nuswantoro University. Experienced in research-based technology, particularly in Android and Web development. I also have skills in data processing using Microsoft Office tools. Currently, I am looking for new opportunities and experiences to continue growing and contributing to the technology world through innovation.
 
 ---
+## 🎉 Fun Facts
 
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<div align="center" style="filter: invert(1);">
-  <img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</div>
 
----
+## 🧠 Skills & 🎧 Spotify Listening
 
-## 🧠 Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,nodejs,php,figma,mysql&theme=dark" alt="Skills" />
+<div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+  <div class="flex flex-col items-center">
+    <h3 class="text-2xl font-bold">🧠 Skills</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,nodejs,php,figma,mysql&theme=dark" alt="Skills" class="max-w-full rounded-lg shadow-lg" />
+  </div>
+  <div class="flex flex-col items-center">
+    <h3 class="text-2xl font-bold">🎧 Spotify Listening</h3>
+    <a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=3" alt="Spotify Recently Played" class="max-w-full rounded-lg shadow-lg" />
+    </a>
+  </div>
 </div>
 
 ---
 
 ## 🔧 Tools & Workflow
 
-- 🧑‍💻 VS Code, Android Studio, Postman
-- ☁️ Firebase, Mysql
-- 🔃 Git & GitHub, CI/CD via GitHub Actions
-- 🎨 Figma, Canva
+- 🖥️ Integrated Development Environments: **VS Code**, **Android Studio**
+- 🔍 API Testing: **Postman**
+- ☁️ Databases: **Firebase**, **MySQL**
+- 🔄 Version Control & Continuous Integration: **Git & GitHub**, **CI/CD with GitHub Actions**
+- 🎨 Design Tools: **Figma**, **Canva**
+
+---
+## 📈 Contribution Graph
+
+<div align="center" style="filter: invert(1);">
+  <img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</div>
 
 ---
 
@@ -45,15 +60,7 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 
 ---
 
-## 🎧 Spotify Listening
 
-<div align="center">
-  <a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=5" alt="Spotify Recently Played" />
-  </a>
-</div>
-
----
 
 ## 📈 GitHub Stats
 
@@ -75,10 +82,18 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://instagram.com/adiityaanugrah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/aditya-anugrah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discord.com/users/adiityaanugrah"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.youtube.com/@AdityaAnugrah?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://instagram.com/adiityaanugrah">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-anugrah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/adiityaanugrah">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/@AdityaAnugrah?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </div>
 
 ---
@@ -88,6 +103,15 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 <p align="center">
   <a href="https://github.com/sponsors/adiityaanugrah">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-adityaanugrah-EA4AAA?logo=githubsponsors" alt="GitHub Sponsors - adityaanugrah" />
+  </a>
+  <a href="https://buymeacoffee.com/adiityaanugrah">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-adityaanugrah-FFDD00?logo=buymeacoffee" alt="Buy Me a Coffee - adityaanugrah" />
+  </a>
+  <a href="https://patreon.com/adiityaanugrah">
+    <img src="https://img.shields.io/badge/Patreon-adityaanugrah-F96854?logo=patreon" alt="Patreon - adityaanugrah" />
+  </a>
+  <a href="https://trakteer.id/adiityaanugrah">
+    <img src="https://img.shields.io/badge/Trakteer-adityaanugrah-FF2D20?logo=trakteer" alt="Trakteer - adityaanugrah" />
   </a>
 </p>
 
