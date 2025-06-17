@@ -3,14 +3,11 @@
 
 <!-- # 🎓Aditya Anugrah -->
 
-<!-- **` (Developer/Creator)`**
+**` (Developer/Creator)`**
 
-I am a developer from the Informatics Engineering study program at Dian Nuswantoro University with experience in research-based technology, particularly in Android and web development. I also possess skills in data processing using Microsoft Office tools. I am currently seeking new opportunities and experiences in a good work environment to continue my growth and learning journey, and to further enhance my skills. I am enthusiastic about contributing to the technology industry through innovation.
-I have the ability to work effectively within a team, manage time efficiently, communicate well, and excel in problem-solving.
+I am a developer from the Informatics Engineering study program at Dian Nuswantoro University with experience in research-based technology, particularly in Android and web development. I also possess skills in data processing using Microsoft Office tools. I am currently seeking new opportunities and experiences in a good work environment to continue my growth and learning journey, and to further enhance my skills. I am enthusiastic about contributing to the technology industry through innovation. I have the ability to work effectively within a team, manage time efficiently, communicate well, and excel in problem-solving.
 
-In the past, my GitHub account was under the username "aadityaanugrah10"; however, it got suspended, which led me to create a new GitHub account.
-
-![image](https://github.com/AdiityaAnugrah/AdiityaAnugrah/assets/134223672/73cf729a-0013-4875-8d61-31138a7a5342) -->
+<!-- ![image](https://github.com/AdiityaAnugrah/AdiityaAnugrah/assets/134223672/73cf729a-0013-4875-8d61-31138a7a5342) -->
 
 ##### Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,kotlin,nodejs,figma,react,php,javascript&theme=dark)]()
@@ -37,19 +34,20 @@ In the past, my GitHub account was under the username "aadityaanugrah10"; howeve
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/maurodesouz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/perbaiki/count.svg?" />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <a href="https://github.com/sponsors/adiityaanugrah">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-adityaanugrah-EA4AAA?logo=githubsponsors" alt="GitHub Sponsors - adityaanugrah" />
+  </a>
+</p>
