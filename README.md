@@ -3,14 +3,14 @@
 <h1 align="center">🎓 Aditya Anugrah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Halo,+saya+Aditya+Anugrah!;Web+%26+Android+Developer;Tech+Enthusiast+%F0%9F%A4%96;Let's+Build+Cool+Stuff!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello,+I'm+Aditya+Anugrah!;Web+%26+Android+Developer;Tech+Enthusiast+%F0%9F%A4%96;Let's+Build+Cool+Stuff!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
-Saya adalah seorang pengembang dari program studi Teknik Informatika di Universitas Dian Nuswantoro. Berpengalaman dalam teknologi berbasis riset, terutama dalam pengembangan Android dan Web. Saya juga memiliki keterampilan dalam pengolahan data menggunakan alat Microsoft Office. Saat ini, saya mencari peluang dan pengalaman baru untuk terus berkembang dan berkontribusi dalam dunia teknologi melalui inovasi.
+I am a developer from the Informatics Engineering program at Dian Nuswantoro University. Experienced in research-based technology, particularly in Android and Web development. I also have skills in data processing using Microsoft Office tools. Currently, I am looking for new opportunities and experiences to continue growing and contributing to the technology world through innovation.
 
 ---
 
@@ -21,8 +21,6 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 </div>
 
 ---
-
-
 
 ## 🧠 Skills
 
@@ -35,18 +33,15 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 ## 🔧 Tools & Workflow
 
 - 🧑‍💻 VS Code, Android Studio, Postman
-- ☁️ Firebase, Supabase
-- 🧪 Jest, Vitest
+- ☁️ Firebase, Mysql
 - 🔃 Git & GitHub, CI/CD via GitHub Actions
-- 🎨 Figma, Swagger
+- 🎨 Figma, Canva
 
 ---
 
+## 📊 GitHub Activity Graph
 
-
-## 📊 Grafik Aktivitas GitHub
-
-![Grafik Aktivitas GitHub Aditya](https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&theme=github-compact)
+![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&theme=github-compact)
 
 ---
 
@@ -54,25 +49,11 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 
 <div align="center">
   <a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=3" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=1" alt="Spotify Recently Played" />
   </a>
 </div>
 
 ---
-
-
-
-
-<!-- ## ✍️ Blog Terbaru *(Opsional)*
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Post terbaru kamu akan muncul otomatis di sini] -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- > Aktifkan dengan [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) -->
-
-
-
 
 ## 📈 GitHub Stats
 
