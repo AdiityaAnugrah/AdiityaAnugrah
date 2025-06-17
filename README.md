@@ -63,15 +63,6 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 ---
 
 
-<!-- ## 🎥 Featured Project
-
-[![My App](https://github.com/AdiityaAnugrah/AdiityaAnugrah/raw/main/demo.gif)](https://github.com/AdiityaAnugrah/)  
-> Aplikasi manajemen produk berbasis React + CodeIgniter 4, mendukung CRUD dan integrasi API.
-
---- -->
-
-
-
 
 
 <!-- ## ✍️ Blog Terbaru *(Opsional)*
