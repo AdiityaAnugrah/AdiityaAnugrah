@@ -15,8 +15,8 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 ---
 ## 🎉 Fun Facts
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center" style="background-color:black;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Versi gelap dan full keren" style="filter: brightness(0.8) drop-shadow(0 0 10px #00ff00);" />
 </p>
 
 
@@ -24,11 +24,10 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
   <div class="flex flex-col items-center">
-    <h3 class="text-2xl font-bold">🧠 Skills</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,nodejs,php,figma,mysql&theme=dark" alt="Skills" class="max-w-full rounded-lg shadow-lg" />
   </div>
+  <br >
   <div class="flex flex-col items-center">
-    <h3 class="text-2xl font-bold">🎧 Spotify Listening</h3>
     <a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=3" alt="Spotify Recently Played" class="max-w-full rounded-lg shadow-lg" />
     </a>
