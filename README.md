@@ -49,7 +49,7 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 
 <div align="center">
   <a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=1" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=5" alt="Spotify Recently Played" />
   </a>
 </div>
 
