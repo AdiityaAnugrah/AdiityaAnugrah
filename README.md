@@ -24,9 +24,32 @@ In the past, my GitHub account was under the username "aadityaanugrah10"; howeve
 ##### Connect with me:
 ![https://instagram.com/adiityaanugrah](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black) ![https://www.linkedin.com/in/aditya-anugrah](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black) ![https://instagram.com/adiityaanugrah](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black) ![https://www.youtube.com/@AdityaAnugrah?sub_confirmation=1](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=1)
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/maurodesouz/count.svg?"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
