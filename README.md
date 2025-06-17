@@ -41,9 +41,10 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 
 ## 📊 Grafik Aktivitas GitHub
 
-![Grafik Aktivitas GitHub Aditya](https://github-readme-activity-graph.cyclic.app/graph?username=AdiityaAnugrah&theme=github-compact)
+![Grafik Aktivitas GitHub Aditya](https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&theme=github-compact)
 
 ---
+
 
 ## 🔧 Tools & Workflow
 
