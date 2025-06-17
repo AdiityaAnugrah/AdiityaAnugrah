@@ -16,8 +16,8 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+<div align="center" style="filter: invert(1);">
+  <img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </div>
 
 ---
@@ -41,7 +41,7 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 
 ## 📊 GitHub Activity Graph
 
-![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&theme=github-compact)
+![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&theme=github-dark)
 
 ---
 
@@ -59,7 +59,7 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=AdiityaAnugrah&show_icons=true&theme=radical&hide_border=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiityaAnugrah&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiityaAnugrah&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
@@ -67,7 +67,7 @@ I am a developer from the Informatics Engineering program at Dian Nuswantoro Uni
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdiityaAnugrah&theme=gruvbox&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdiityaAnugrah&theme=dark&margin-w=10&no-frame=true" />
 </p>
 
 ---
