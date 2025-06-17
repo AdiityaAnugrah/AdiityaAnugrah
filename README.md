@@ -72,13 +72,7 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 
 
 
-<!-- ## 📹 YouTube Video Terbaru
 
-<a href="https://www.youtube.com/@AdityaAnugrah?sub_confirmation=1">
-  <img src="https://ytcards.demolab.com/?channel_id=UCssY6pOXkPMhP9xSuBX73ZQ&title=Terbaru+dari+YouTube&lang=id&theme=dark" alt="Latest YouTube Video" />
-</a>
-
---- -->
 
 <!-- ## ✍️ Blog Terbaru *(Opsional)*
 
