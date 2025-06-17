@@ -14,13 +14,15 @@ Saya adalah seorang pengembang dari program studi Teknik Informatika di Universi
 
 ---
 
-## 📌 Contribution Graph
+## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </picture>
+</div>
 
 ---
 
