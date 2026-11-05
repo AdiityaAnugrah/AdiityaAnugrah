@@ -1,35 +1,36 @@
 
-<!-- ============================================= -->
-<!--       ADITYA ANUGRAH | GITHUB PROFILE         -->
-<!-- ============================================= -->
+<!-- ============================================ -->
+<!--         ADITYA ANUGRAH | GITHUB PROFILE      -->
+<!--            DARK PREMIUM EDITION              -->
+<!-- ============================================ -->
 
 <div align="center">
 
-<img src="img/benner.png" alt="Aditya Anugrah Banner" width="100%" />
+<img src="img/benner.png" width="100%" alt="Aditya Anugrah Banner" />
 
 <br/>
 
-# Hi, I'm Aditya Anugrah 👋
+<h1>Hi, I'm Aditya Anugrah 👋</h1>
 
-### Full-Stack Web & Android Developer
+<h3>Full-Stack Web & Android Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+Developer;Native+Android+Developer;Building+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&height=50&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;Native+Android+Developer;Building+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 
-<br/>
+<br/><br/>
 
 <a href="https://adityaanugrah.me">
-<img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-anugrah">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/adiityaanugrah">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://github.com/sponsors/AdiityaAnugrah">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsor" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AdiityaAnugrah&label=Profile%20Views&color=F75C7E&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=AdiityaAnugrah&label=PROFILE+VIEWS&color=F75C7E&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -37,21 +38,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Aditya Anugrah**, a passionate developer with an Informatics Engineering background from **Dian Nuswantoro University**, Indonesia.
+Hello! I'm **Aditya Anugrah**, a developer with an Informatics Engineering background from **Dian Nuswantoro University**, Indonesia.
 
-I enjoy transforming ideas into meaningful digital products, combining clean design, scalable architecture, and modern technology.
+I enjoy transforming ideas into meaningful digital products through modern technologies, thoughtful design, and reliable engineering.
 
-My main focus is on **Full-Stack Web Development**, **Native Android Development**, and creating user-friendly digital experiences.
+My primary focus is **Full-Stack Web Development** and **Native Android Development**, with a strong interest in performance, user experience, and innovative technologies.
 
-- 💻 Building modern web applications.
-- 📱 Developing native Android apps using Kotlin.
-- 🎨 Passionate about UI/UX and interactive interfaces.
-- ⚡ Interested in web performance and optimization.
-- 🤖 Exploring AI integration and automation.
-- 🌱 Always learning new technologies.
-- 🚀 Turning creative ideas into working products.
+- 💻 Building modern and responsive web applications.
+- 📱 Developing native Android applications with Kotlin.
+- 🎨 Passionate about clean UI/UX and interactive design.
+- ⚡ Interested in performance and maintainable architecture.
+- 🤖 Exploring AI integration and intelligent automation.
+- ☁️ Working with APIs, databases, and cloud infrastructure.
+- 🌱 Continuously learning and improving my skills.
 
-> "Build with purpose. Design with intention. Improve continuously."
+> Build with purpose. Design with intention. Improve continuously.
 
 ---
 
@@ -59,33 +60,33 @@ My main focus is on **Full-Stack Web Development**, **Native Android Development
 
 <div align="center">
 
-### 🌐 Frontend Development
+<h3>🌐 Frontend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" alt="Frontend Stack"/>
-
-<br/>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=php,nodejs,express&theme=dark" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" alt="Frontend Technologies" />
 
 <br/>
 
-### 🗄️ Database & Cloud
+<h3>⚙️ Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,cloudflare&theme=dark" alt="Database and Cloud"/>
-
-<br/>
-
-### 📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" alt="Mobile Stack"/>
+<img src="https://skillicons.dev/icons?i=php,nodejs,express&theme=dark" alt="Backend Technologies" />
 
 <br/>
 
-### 🧰 Tools & Workflow
+<h3>🗄️ Database & Cloud</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,githubactions&theme=dark" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,cloudflare&theme=dark" alt="Database and Cloud" />
+
+<br/>
+
+<h3>📱 Mobile Development</h3>
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" alt="Mobile Technologies" />
+
+<br/>
+
+<h3>🧰 Development Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,githubactions&theme=dark" alt="Developer Tools" />
 
 </div>
 
@@ -95,31 +96,31 @@ My main focus is on **Full-Stack Web Development**, **Native Android Development
 
 <div align="center">
 
-### Selected Work & Experiments
+<h3>Selected Work & Experiments</h3>
 
-A collection of web applications, Android projects, and experiments.
+A collection of projects, technical experiments, and software development experiences.
 
 </div>
 
-### 🌐 Full-Stack Web Applications
+### 🌐 Full-Stack Web Development
 
-Building modern web applications with a focus on performance, usability, and maintainable architecture.
+Building modern and scalable web applications focused on user experience, performance, and maintainable architecture.
 
-**Focus:** Frontend · Backend · Database · API Integration
+**Technologies:** PHP · JavaScript · React · Next.js · Node.js · MySQL
 
-[🌍 Visit My Portfolio](https://adityaanugrah.me) · [📂 Explore Repositories](https://github.com/AdiityaAnugrah?tab=repositories)
+[🌍 Visit My Portfolio](https://adityaanugrah.me) | [📂 Explore Repositories](https://github.com/AdiityaAnugrah?tab=repositories)
 
-### 📱 Native Android Applications
+### 📱 Native Android Development
 
-Developing mobile applications using Kotlin with thoughtful interfaces and native Android capabilities.
+Developing native Android applications using Kotlin, modern Android technologies, and intuitive user interfaces.
 
-**Focus:** Kotlin · Android · UI/UX · REST API
+**Technologies:** Kotlin · Android Studio · REST APIs
 
 [📂 Explore Android Projects](https://github.com/AdiityaAnugrah?tab=repositories)
 
-### 🤖 AI & Automation Experiments
+### 🤖 AI & Automation
 
-Exploring intelligent integrations and practical automation to enhance digital experiences.
+Exploring intelligent applications, AI-powered tools, API integrations, and automation solutions.
 
 **Focus:** AI Integration · APIs · Automation
 
@@ -131,12 +132,29 @@ Exploring intelligent integrations and practical automation to enhance digital e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdiityaAnugrah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiityaAnugrah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages"/>
+<h3>My Development Activity</h3>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdiityaAnugrah&theme=radical" width="95%" alt="GitHub Profile Summary" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdiityaAnugrah&theme=radical" width="46%" alt="GitHub Statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdiityaAnugrah&theme=radical" width="46%" alt="Languages by Repository" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdiityaAnugrah&theme=radical" width="46%" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdiityaAnugrah&theme=radical&timeZone=Asia/Jakarta" width="46%" alt="Productive Coding Time" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiityaAnugrah&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -146,7 +164,9 @@ Exploring intelligent integrations and practical automation to enhance digital e
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Animation" />
+
+<br/>
 
 <sub>Every contribution is another step forward.</sub>
 
@@ -154,31 +174,33 @@ Exploring intelligent integrations and practical automation to enhance digital e
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎧 Recently Played on Spotify
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdiityaAnugrah&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies"/>
+<h3>Music Keeps Me Inspired 🎵</h3>
 
-</div>
+<p>Good music, good code, and creative ideas.</p>
 
----
-
-## 🎧 Life Beyond Code
-
-<div align="center">
-
-### Currently Listening
-
-When I'm away from my editor, music keeps the creativity flowing.
+<br/>
 
 <a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=3" alt="Spotify Recently Played"/>
+  <img
+    src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314fdf4yxvzmj66jedzzyttt5sua"
+    width="500"
+    alt="Aditya's Recently Played Spotify"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
+  <img src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
 </a>
 
 <br/>
 
-<sub>Good music. Good code. Good ideas.</sub>
+<sub>Music makes the development journey better.</sub>
 
 </div>
 
@@ -188,24 +210,26 @@ When I'm away from my editor, music keeps the creativity flowing.
 
 <div align="center">
 
-Let's connect, collaborate, and build something meaningful.
+<h3>Let's Build Something Meaningful</h3>
 
-<br/>
+I'm always open to interesting ideas, collaboration, and opportunities to create impactful digital experiences.
+
+<br/><br/>
 
 <a href="https://adityaanugrah.me">
-<img src="https://img.shields.io/badge/Website-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-anugrah">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/adiityaanugrah">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://discord.com/users/adiityaanugrah">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://www.youtube.com/@AdityaAnugrah">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
 </div>
@@ -216,26 +240,28 @@ Let's connect, collaborate, and build something meaningful.
 
 <div align="center">
 
-If you enjoy my work or find my projects helpful, consider supporting my development journey.
+<h3>Support My Development Journey</h3>
+
+If you enjoy my projects or find my work useful, consider supporting my development journey.
 
 Your support motivates me to keep building, learning, and sharing.
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/sponsors/AdiityaAnugrah">
-<img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/>
+  <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
 </a>
 
 <br/><br/>
 
 <a href="https://buymeacoffee.com/adiityaanugrah">
-<img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
 </a>
 <a href="https://trakteer.id/adiityaanugrah">
-<img src="https://img.shields.io/badge/Trakteer-FF2D20?style=for-the-badge&logoColor=white" alt="Trakteer"/>
+  <img src="https://img.shields.io/badge/Trakteer-FF2D20?style=for-the-badge&logoColor=white" alt="Trakteer" />
 </a>
 <a href="https://patreon.com/adiityaanugrah">
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
 </a>
 
 </div>
@@ -244,14 +270,14 @@ Your support motivates me to keep building, learning, and sharing.
 
 <div align="center">
 
-### ✨ Thanks for Visiting!
+<h3>✨ Thanks for Visiting!</h3>
 
-**Great things are built one line of code at a time.**
+<p><b>Great things are built one line of code at a time.</b></p>
 
-<sub>Made with curiosity, creativity, and lots of coffee ☕</sub>
+<sub>Designed with curiosity. Built with passion. ☕</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:702459&height=100&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:702459&height=100&section=footer" width="100%" alt="Footer Decoration" />
 
 </div>
